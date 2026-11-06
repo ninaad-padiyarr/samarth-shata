@@ -1,0 +1,12 @@
+/build/
+/lib/
+/work/
+__pycache__/
+*.pyc
+*.class
+*.jar
+*.dump
+*.log
+.env
+.env.*
+*password*.txt
